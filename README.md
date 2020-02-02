@@ -1,1 +1,1 @@
-# content-style-guide
+# Welcome to the BracketCat Content Style Guide
